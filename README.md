@@ -1,5 +1,5 @@
 ### Hi there 👋
-<!--
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuriachermann)](https://github.com/yuriachermann/github-readme-stats)
 
 <p align="center"><a href="https://anuraghazra.github.io"><img width="80%" src="./assets/gh-readme-header.png" /></a></p>
@@ -51,8 +51,8 @@ I'm a self-taught passionate AI & BackEnd developer
 <a href="https://codesandbox.io/u/anuraghazra">
   <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
 </a>
--->
 
+<!--
 **yuriachermann/yuriachermann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -65,4 +65,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+-->
