@@ -1,12 +1,4 @@
-### Hi there 👋
-
-
-
 <p align="center"><a href="https://yuriachermann.github.io"></a></p>
-
-<br />
-
-I'm a self-taught AI & BackEnd developer
 
 **About me**
 
