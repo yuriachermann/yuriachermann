@@ -1,9 +1,8 @@
+
 <p align="center"><a href="https://yuriachermann.github.io"></a></p>
 
 **About me**
-
 - 💼 Data Engineer at [Artefact](https://www.artefact.com)
-
 - 💬 Ask me about anything [here](https://github.com/yuriachermann/yuriachermann/issues)
 
 <!--
