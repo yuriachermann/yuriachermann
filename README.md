@@ -26,16 +26,19 @@
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg">
 </div>
 
+<!--
 <a href="https://twitter.com/YuriAchermann">
   <img align="right" alt="Yuri Achermann | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
 <a href="https://codesandbox.io/u/anuraghazra">
   <img align="right" alt="Yuri Achermann | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
 </a>
+-->
   
 ##
 
-<div> 
+<div>
+  <div align="center">
     <a href="https://www.linkedin.com/in/yuriachermann/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor="white" target="_blank"></a>
     <a href="https://twitter.com/YuriAchermann"><img src="https://img.shields.io/badge/Twitter-00acee?style=for-the-badge&logo=Twitter&logoColor="white" target="_blank"></a>
   <a href = "mailto:yuri.achermann@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor="white" target="_blank"></a>
