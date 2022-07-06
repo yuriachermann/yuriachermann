@@ -41,7 +41,7 @@
 <div>
   <div align="center">
   <a href="https://www.linkedin.com/in/yuriachermann/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor="white" target="_blank"></a>
-  <a href = "mailto:yuri.achermann@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor="white" target="_blank"></a>
   <a href="https://twitter.com/YuriAchermann"><img src="https://img.shields.io/badge/Twitter-00acee?style=for-the-badge&logo=Twitter&logoColor="white" target="_blank"></a>
+  <a href = "mailto:yuri.achermann@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor="white" target="_blank"></a>
   <a href="https://wa.me/4915735582320?text=Hi"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor="white" target="_blank"></a>
 </div>
