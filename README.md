@@ -3,7 +3,7 @@
 
 **About me**
 - 💼 Data Engineer at [Artefact](https://www.artefact.com)
-- 💼 MLOps Engineer at [Fraunhofer IPT](https://www.ipt.fraunhofer.de)
+- 💼 HiWi MLOps Engineer at [Fraunhofer IPT](https://www.ipt.fraunhofer.de)
 - 💬 Ask me about anything [here](https://github.com/yuriachermann/yuriachermann/issues)
 
 ##
