@@ -9,7 +9,7 @@ MLOps Engineer
 * 🤝  I'm open to collaborating on AI projects
 * ⚡  Secret -->
 
-<a href="https://www.github.com/yuriachermann" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/yuriachermann?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+<!-- <a href="https://www.github.com/yuriachermann" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/yuriachermann?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a> -->
 
 ## Skills  
 
