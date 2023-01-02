@@ -37,9 +37,9 @@ MLOps Engineer
   <a href="https://www.github.com/yuriachermann" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" height="32" /></a>
   <a href="http://www.instagram.com/yuriachermann" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" height="32" /></a>
   <a href="https://www.linkedin.com/in/yuriachermann" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="32" /></a>
-  <a href="http://www.medium.com/YuriAchermann" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height="32" /></a>
+  <a href="http://www.medium.com/@YuriAchermann" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height="32" /></a>
   <a href="https://www.twitter.com/YuriAchermann" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" height="32" /></a>
-  <a href="https://www.youtube.com/c/YuriAchermann" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" height="32" /></a>
+  <a href="https://www.youtube.com/c/YuriWincheAchermann" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" height="32" /></a>
   <a href="https://www.twitch.tv/yuriachermann" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white" height="32" /></a>
   <a href="https://stackoverflow.com/users/15371982/yuri-winche-achermann" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" height="32" /></a>
   <a href="https://www.reddit.com/user/PensionAggravating56" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white" height="32" /></a>
@@ -48,7 +48,6 @@ MLOps Engineer
   <a href="https://discordapp.com/users/343805351247740938" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" height="32" /></a>
   <a href="https://www.xing.com/profile/YuriWinche_Achermann/cv" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/xing-%23006567.svg?style=for-the-badge&logo=xing&logoColor=white" height="32" /></a>
   <a href="https://dev.to/yuriachermann" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" height="32" /></a>
-  <a href="https://hashnode.com/@yuriachermann" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" height="32" /></a>
   <a href="https://www.polywork.com/yuriachermann" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Polywork-543DE0?style=for-the-badge&logo=polywork&logoColor=black" height="32" /></a>
   <a href="https://codepen.io/yuriachermann" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" height="32" /></a>
   <a href="https://dribbble.com/yuriachermann" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" height="32" /></a>
