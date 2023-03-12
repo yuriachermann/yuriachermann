@@ -2,6 +2,7 @@ MLOps Engineer
 ===============================
 
 * 🌍  Based in Aachen
+* 🎓  Aerospace Engineer
 * 🖥️  Website [yuriachermann.com](http://yuriachermann.com)
 * ✉️  Contact me at [yuri.achermann@gmail.com](mailto:yuri.achermann@gmail.com)
 <!-- * 🚀  I'm currently working on [Tool Detective](http://tooldetective.de)
