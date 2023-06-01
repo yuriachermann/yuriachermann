@@ -1,4 +1,4 @@
-MLOps Engineer
+DevOps Engineer
 ===============================
 
 * 🌍  Based in Aachen
