@@ -1,56 +1,17 @@
+[<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=CC5500&height=100&section=header"/>](https://yuriachermann.com)
+
+<!-- &text=Yuri%20Achermann&fontSize=30&fontColor=111111&fontAlignY=20&desc=daw&DescSize=15&descAlign=20&descAlignY=40&strokeWidth=1&stroke=000 -->
+
 DevOps Engineer
-===============================
+-------
 
 * 🌍  Based in Aachen
 * 🎓  Aerospace Engineer
-* 🖥️  Website [yuriachermann.com](http://yuriachermann.com)
+* 🖥️  Website [yuriachermann.com](https://yuriachermann.com)
 * ✉️  Contact me at [yuri.achermann@gmail.com](mailto:yuri.achermann@gmail.com)
 <!-- * 🚀  I'm currently working on [Tool Detective](http://tooldetective.de)
 * 🧠  I'm learning how to print “Hello, world!”
 * 🤝  I'm open to collaborating on AI projects
 * ⚡  Secret -->
 
-<!-- <a href="https://www.github.com/yuriachermann" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/yuriachermann?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a> -->
-
-## Skills
-
-| Stack | Preferred Stacks | Also worked with |
-| :--- | :----: | :---: |
-| Core | <p align="center"> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a> <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a> </p> | <p align="center"> <a href="https://devdocs.io/c//" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" width="36" height="36" alt="C" /></a> <a href="https://devdocs.io/cpp//" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="36" height="36" alt="C++" /></a> </p> | <--  -->
-| Frontend | <p align="center"> <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a> </p> | <p align="center"> <a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a> </p> | <--  -->
-| Backend | <p align="center"> <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a> <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a> </p> | <p align="center"> <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a> <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a> </p> | <-- Railway tRPC -->
-| Data storage | <p align="center"> <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a> <a href="https://www.prisma.io/" target="_blank" rel="noreferrer"><img src="https://cdn.cdnlogo.com/logos/p/67/prisma.svg" width="36" height="36" alt="PostgreSQL" /></a> </p> | <p align="center"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://cdn.cdnlogo.com/logos/m/30/mongodb-icon.svg" width="36" height="36" alt="MongoDB" /></a> </p> | <--  -->
-| Cloud | <p align="center"> <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="36" height="36" alt="Azure" /></a> </p> | <p align="center"> <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="36" height="36" alt="AWS" /></a> <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="36" height="36" alt="GCP" /></a> </p> | <-- DigitalOcean -->
-| Data Science | <p align="center"> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg" width="36" height="36" alt="Pandas" /></a> </p> |  | <-- scikit-learn -->
-| Machine Learning | <p align="center"> <a href="https://pytorch.org" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" width="36" height="36" alt="PyTorch" /></a> </p> | <p align="center"> <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="36" height="36" alt="Tensorflow" /></a> <a href="https://keras.io/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="36" height="36" alt="Keras" /></a> </p> | <-- Pytorch -->
-| Design | <p align="center"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a> </p> |  | <-- Docker Kubernetes -->
-<!-- | CI/CD | <p align="center"> </p> |  | GitHubActions Jenkins GitLab  -->
-
-<!-- ## Badges -->
-
-<!-- <a width="160" href="http://www.github.com/yuriachermann"><img src="https://github-readme-stats.vercel.app/api?username=yuriachermann&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="yuriachermann's GitHub stats" /></a> -->
-<!-- <a width="160" href="http://www.github.com/yuriachermann"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yuriachermann&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a> -->
-<!-- <a href="http://www.github.com/yuriachermann"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=yuriachermann&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> -->
-
-## Socials
-
-<p align="left">
-  <a href="https://www.github.com/yuriachermann" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" height="32" /></a>
-  <a href="http://www.instagram.com/yuriachermann" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" height="32" /></a>
-  <a href="https://www.linkedin.com/in/yuriachermann" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="32" /></a>
-  <a href="http://www.medium.com/@YuriAchermann" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height="32" /></a>
-  <a href="https://www.twitter.com/YuriAchermann" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" height="32" /></a>
-  <a href="https://www.youtube.com/c/YuriWincheAchermann" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" height="32" /></a>
-  <a href="https://www.twitch.tv/yuriachermann" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white" height="32" /></a>
-  <a href="https://stackoverflow.com/users/15371982/yuri-winche-achermann" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" height="32" /></a>
-  <a href="https://www.reddit.com/user/PensionAggravating56" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white" height="32" /></a>
-  <a href="https://www.kaggle.com/yuriwa" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" height="32" /></a>
-  <a href="https://www.facebook.com/yuriachermann/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" height="32" /></a>
-  <a href="https://discordapp.com/users/343805351247740938" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" height="32" /></a>
-  <a href="https://www.xing.com/profile/YuriWinche_Achermann/cv" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/xing-%23006567.svg?style=for-the-badge&logo=xing&logoColor=white" height="32" /></a>
-  <a href="https://dev.to/yuriachermann" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" height="32" /></a>
-  <a href="https://www.polywork.com/yuriachermann" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Polywork-543DE0?style=for-the-badge&logo=polywork&logoColor=black" height="32" /></a>
-  <a href="https://codepen.io/yuriachermann" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" height="32" /></a>
-  <a href="https://dribbble.com/yuriachermann" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" height="32" /></a>
-  <a href="https://hashnode.com/@yuriachermann" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" height="32" /></a>
-</p>
+[<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=CC5500&height=100&section=footer"/>](https://yuriachermann.com)
