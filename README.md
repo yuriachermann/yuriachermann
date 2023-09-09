@@ -2,7 +2,7 @@
 
 <!-- &text=Yuri%20Achermann&fontSize=30&fontColor=111111&fontAlignY=20&desc=daw&DescSize=15&descAlign=20&descAlignY=40&strokeWidth=1&stroke=000 -->
 
-DevOps Engineer
+Aerospace Engineer
 -------
 
 * 🌍  Based in Aachen
